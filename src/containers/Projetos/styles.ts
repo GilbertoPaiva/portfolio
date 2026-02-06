@@ -10,4 +10,5 @@ export const Lista = styled.ul`
     grid-template-columns: 1fr;
     column-gap: 0;
     row-gap: 16px;
+  }
 `
